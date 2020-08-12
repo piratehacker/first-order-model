@@ -9,8 +9,8 @@ from demo import load_checkpoints, make_animation
 
 warnings.filterwarnings("ignore")
 
-generator, kp_detector = load_checkpoints(config_path='../config/vox-256.yaml',
-                                          checkpoint_path='../data/vox-cpk.pth.tar', cpu=True)
+generator, kp_detector = load_checkpoints(config_path='config/vox-256.yaml',
+                                          checkpoint_path='data/vox-cpk.pth.tar', cpu=True)
 
 
 def deepfake(imgpath, vidpath, outpath):
