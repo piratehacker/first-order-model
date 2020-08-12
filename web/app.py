@@ -1,5 +1,5 @@
 from flask import *
-from deepfake import deepfake
+from web.deepfake import deepfake
 
 app = Flask(__name__)
 
