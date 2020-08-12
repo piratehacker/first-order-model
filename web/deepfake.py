@@ -5,7 +5,7 @@ import imageio
 from skimage import img_as_ubyte
 from skimage.transform import resize
 import warnings
-from ..demo import load_checkpoints, make_animation
+from demo import load_checkpoints, make_animation
 
 warnings.filterwarnings("ignore")
 

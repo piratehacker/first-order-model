@@ -32,9 +32,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3151db6-1df5-421d-a914-da2e74c72b67" name="Default Changelist" comment="index.py">
+    <list default="true" id="c3151db6-1df5-421d-a914-da2e74c72b67" name="Default Changelist" comment="index">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deepfake-gen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/vox-cpk.pth.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/deepfake.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/deepfake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +105,7 @@
       <workItem from="1597173868744" duration="1018000" />
       <workItem from="1597219455547" duration="30000" />
       <workItem from="1597223043076" duration="638000" />
-      <workItem from="1597233218124" duration="1778000" />
+      <workItem from="1597233218124" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="webserver">
       <created>1597233731788</created>
@@ -136,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597235922053</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="index">
+      <created>1597236018693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597236018693</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,16 +172,17 @@
     <MESSAGE value="app" />
     <MESSAGE value="imports" />
     <MESSAGE value="index.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.py" />
+    <MESSAGE value="index" />
+    <option name="LAST_COMMIT_MESSAGE" value="index" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1597233412811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597233412811" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1597235926812">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1597236022695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597235926812" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597236022695" />
   </component>
 </project>
