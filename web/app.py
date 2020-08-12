@@ -3,6 +3,7 @@ from .deepfake import deepfake
 
 app = Flask(__name__)
 
+# app.template_folder = 'web/templates'
 
 @app.route('/')
 def home():

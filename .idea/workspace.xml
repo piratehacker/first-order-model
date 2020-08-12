@@ -34,7 +34,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c3151db6-1df5-421d-a914-da2e74c72b67" name="Default Changelist" comment="imports">
       <change afterPath="$PROJECT_DIR$/data/vox-cpk.pth.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/deepfake.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/deepfake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.txt" beforeDir="false" afterPath="$PROJECT_DIR$/install.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +72,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -99,7 +102,7 @@
       <workItem from="1597173868744" duration="1018000" />
       <workItem from="1597219455547" duration="30000" />
       <workItem from="1597223043076" duration="638000" />
-      <workItem from="1597233218124" duration="1887000" />
+      <workItem from="1597233218124" duration="2476000" />
     </task>
     <task id="LOCAL-00001" summary="webserver">
       <created>1597233731788</created>
@@ -150,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597236075610</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="imports">
+      <created>1597236137630</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597236137630</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,9 +191,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597233412811" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1597236070934">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1597236147148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597236070934" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597236147148" />
   </component>
 </project>
