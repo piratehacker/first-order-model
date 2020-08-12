@@ -27,4 +27,6 @@ def generate():
     vidpath = 'tmp/'+count+'_'+img.filename
     vid.save(vidpath)
 
-app.run()
+
+def run():
+    app.run()
