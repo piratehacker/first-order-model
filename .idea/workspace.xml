@@ -32,11 +32,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3151db6-1df5-421d-a914-da2e74c72b67" name="Default Changelist" comment="imports">
+    <list default="true" id="c3151db6-1df5-421d-a914-da2e74c72b67" name="Default Changelist" comment="index.py">
       <change afterPath="$PROJECT_DIR$/data/vox-cpk.pth.tar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,7 @@
       <workItem from="1597173868744" duration="1018000" />
       <workItem from="1597219455547" duration="30000" />
       <workItem from="1597223043076" duration="638000" />
-      <workItem from="1597233218124" duration="1682000" />
+      <workItem from="1597233218124" duration="1778000" />
     </task>
     <task id="LOCAL-00001" summary="webserver">
       <created>1597233731788</created>
@@ -131,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597235778404</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="index.py">
+      <created>1597235922053</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597235922053</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,16 +158,17 @@
     <MESSAGE value="requirements" />
     <MESSAGE value="app" />
     <MESSAGE value="imports" />
-    <option name="LAST_COMMIT_MESSAGE" value="imports" />
+    <MESSAGE value="index.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1597233412811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597233412811" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1597235785344">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1597235926812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597235785344" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597235926812" />
   </component>
 </project>

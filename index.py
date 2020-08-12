@@ -1,3 +1,3 @@
-from web.app import run
+from web import app
 
-run()
+app.run()
